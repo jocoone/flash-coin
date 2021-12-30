@@ -1,0 +1,19 @@
+{
+  "name": "spaghetticoin",
+  "version": "1.0.0",
+  "description": "The Spaghettie cryptocurrency",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jocoone/spaghetti-coin.git"
+  },
+  "author": "Joey Comhaire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jocoone/spaghetti-coin/issues"
+  },
+  "homepage": "https://github.com/jocoone/spaghetti-coin#readme"
+}
